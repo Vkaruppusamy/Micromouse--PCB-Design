@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Module")(type "KiCad")(uri "C:/Users/Administrator/Downloads/Module.pretty")(options "")(descr ""))
+  (lib (name "ROB-14450")(type "KiCad")(uri "C:/Users/Administrator/Downloads/ROB-14450")(options "")(descr ""))
+  (lib (name "HC-SR04")(type "KiCad")(uri "C:/Users/Administrator/Downloads/HC-SR04")(options "")(descr ""))
+  (lib (name "connector")(type "KiCad")(uri "C:/Users/Administrator/Downloads/connector")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/Administrator/Downloads/ki cad/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)

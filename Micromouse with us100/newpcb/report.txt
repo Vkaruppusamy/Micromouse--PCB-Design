@@ -1,0 +1,33 @@
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Cu.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Cu.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Paste.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Paste.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Silkscreen.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Silkscreen.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Mask.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Mask.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-job.gbrjob'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Cu.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Cu.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Paste.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Paste.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Silkscreen.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Silkscreen.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Mask.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Mask.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-job.gbrjob'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Cu.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Cu.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Paste.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Paste.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Silkscreen.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Silkscreen.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-F_Mask.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-B_Mask.gbr'.
+Plotted to 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\ledblink\MicromouseultraS\micromouseus\micromouseus-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.

@@ -1,0 +1,22 @@
+** Drc report for C:\ledblink\MicromouseultraS\micromouseus\micromouseus.kicad_pcb **
+** Created on 2022-12-06 10:37:11 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 4 Footprint errors **
+[net_conflict]: Pad net (Net-(U2-Pad3)) doesn't match net given by schematic (Net-(J2-Pad4)).
+    Local override; Severity: warning
+    @(113.0300 mm, 90.8100 mm): Through hole pad 4 [Net-(U2-Pad3)] of J2
+[net_conflict]: Pad net (Net-(U2-Pad3)) doesn't match net given by schematic (Net-(J2-Pad4)).
+    Local override; Severity: warning
+    @(113.0300 mm, 93.3500 mm): Through hole pad 5 [Net-(U2-Pad3)] of J2
+[net_conflict]: Pad net (Net-(U2-Pad3)) doesn't match net given by schematic (Net-(J2-Pad4)).
+    Local override; Severity: warning
+    @(135.8900 mm, 85.0900 mm): Through hole pad 3 [Net-(U2-Pad3)] of U2
+[net_conflict]: Pad net (Net-(U2-Pad3)) doesn't match net given by schematic (Net-(J2-Pad4)).
+    Local override; Severity: warning
+    @(135.8900 mm, 85.0900 mm): Pad 3 [Net-(U2-Pad3)] of U2 on F.Cu
+
+** End of Report **

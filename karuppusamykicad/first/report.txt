@@ -1,0 +1,221 @@
+Info: Processing symbol 'J1:Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal'.
+Info: Processing symbol 'U3:HC-SR04:XCVR_HC-SR04'.
+Info: Processing symbol 'U4:RP-Pico Libraries:RPi_Pico_SMD_TH'.
+Info: Processing symbol 'J3:Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal'.
+Info: Processing symbol 'J2:Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'U2:HC-SR04:XCVR_HC-SR04'.
+Info: Processing symbol 'U1:HC-SR04:XCVR_HC-SR04'.
+Info: Processing symbol 'U5:ROB-14450:MODULE_ROB-14450'.
+Changed REF** reference designator to J1.
+Changed J1 value from PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal to Conn_01x02_Male.
+Updated J1 symbol association from  to /6c87fd27-86b8-449e-ad05-103ed686bd5c.
+Updated J1 properties.
+Add net Net-(J1-Pad1).
+Connected J1 pin 1 to Net-(J1-Pad1).
+Add net Net-(J1-Pad2).
+Connected J1 pin 2 to Net-(J1-Pad2).
+Added J2 (footprint 'Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal to Conn_01x02_Male.
+Updated J2 symbol association from  to /c5b6002a-365e-46b0-9258-38da58c2b5ef.
+Updated J2 properties.
+Add net Net-(J2-Pad1).
+Connected J2 pin 1 to Net-(J2-Pad1).
+Add net Net-(J2-Pad2).
+Connected J2 pin 2 to Net-(J2-Pad2).
+Added J3 (footprint 'Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal').
+Changed REF** reference designator to J3.
+Changed J3 value from PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal to Conn_01x02_Male.
+Updated J3 symbol association from  to /82c23c9f-cc91-40a6-8c99-fcd9675cbea4.
+Updated J3 properties.
+Add net Net-(J3-Pad1).
+Add net Net-(J3-Pad2).
+Connected J3 pin 2 to Net-(J3-Pad2).
+Added U1 (footprint 'HC-SR04:XCVR_HC-SR04').
+Changed REF** reference designator to U1.
+Changed U1 value from XCVR_HC-SR04 to HC-SR04.
+Updated U1 symbol association from  to /8712d03b-2cdc-4e6a-a711-98aef0be7b9f.
+Updated U1 properties.
+Add net Net-(U1-Pad2).
+Connected U1 pin 2 to Net-(U1-Pad2).
+Add net Net-(U1-Pad3).
+Connected U1 pin 3 to Net-(U1-Pad3).
+Connected U1 pin 4 to Net-(J1-Pad2).
+Connected U1 pin 1 to Net-(J1-Pad1).
+Added U2 (footprint 'HC-SR04:XCVR_HC-SR04').
+Changed REF** reference designator to U2.
+Changed U2 value from XCVR_HC-SR04 to HC-SR04.
+Updated U2 symbol association from  to /070f973c-3500-42b7-af2d-2e19cf05535d.
+Updated U2 properties.
+Add net Net-(U2-Pad2).
+Connected U2 pin 2 to Net-(U2-Pad2).
+Add net Net-(U2-Pad3).
+Connected U2 pin 3 to Net-(U2-Pad3).
+Connected U2 pin 4 to Net-(J1-Pad2).
+Connected U2 pin 1 to Net-(J1-Pad1).
+Connected J3 pin 1 to Net-(J3-Pad1).
+Added U3 (footprint 'HC-SR04:XCVR_HC-SR04').
+Changed REF** reference designator to U3.
+Changed U3 value from XCVR_HC-SR04 to HC-SR04.
+Updated U3 symbol association from  to /b1c4cbfd-755b-4978-a401-c5fcc01c6105.
+Updated U3 properties.
+Add net Net-(U3-Pad2).
+Connected U3 pin 2 to Net-(U3-Pad2).
+Add net Net-(U3-Pad3).
+Connected U3 pin 3 to Net-(U3-Pad3).
+Connected U3 pin 4 to Net-(J1-Pad2).
+Connected U3 pin 1 to Net-(J1-Pad1).
+Added U4 (footprint 'RP-Pico Libraries:RPi_Pico_SMD_TH').
+Changed REF** reference designator to U4.
+Changed U4 value from RPi_Pico_SMD_TH to Pico.
+Updated U4 symbol association from  to /eb682ee9-5b21-462b-a98a-5f515bebe492.
+Updated U4 properties.
+Connected U4 pin 1 to Net-(U2-Pad3).
+Connected U4 pin 1 to Net-(U2-Pad3).
+Connected U4 pin 2 to Net-(U2-Pad2).
+Connected U4 pin 2 to Net-(U2-Pad2).
+Connected U4 pin 3 to Net-(J1-Pad2).
+Connected U4 pin 3 to Net-(J1-Pad2).
+Connected U4 pin 4 to Net-(U3-Pad3).
+Connected U4 pin 4 to Net-(U3-Pad3).
+Connected U4 pin 5 to Net-(U3-Pad2).
+Connected U4 pin 5 to Net-(U3-Pad2).
+Connected U4 pin 6 to Net-(U1-Pad3).
+Connected U4 pin 6 to Net-(U1-Pad3).
+Connected U4 pin 7 to Net-(U1-Pad2).
+Connected U4 pin 7 to Net-(U1-Pad2).
+Add net unconnected-(U4-Pad8).
+Connected U4 pin 8 to unconnected-(U4-Pad8).
+Connected U4 pin 8 to unconnected-(U4-Pad8).
+Add net unconnected-(U4-Pad9).
+Connected U4 pin 9 to unconnected-(U4-Pad9).
+Connected U4 pin 9 to unconnected-(U4-Pad9).
+Add net unconnected-(U4-Pad10).
+Connected U4 pin 10 to unconnected-(U4-Pad10).
+Connected U4 pin 10 to unconnected-(U4-Pad10).
+Add net unconnected-(U4-Pad11).
+Connected U4 pin 11 to unconnected-(U4-Pad11).
+Connected U4 pin 11 to unconnected-(U4-Pad11).
+Add net unconnected-(U4-Pad12).
+Connected U4 pin 12 to unconnected-(U4-Pad12).
+Connected U4 pin 12 to unconnected-(U4-Pad12).
+Add net unconnected-(U4-Pad13).
+Connected U4 pin 13 to unconnected-(U4-Pad13).
+Connected U4 pin 13 to unconnected-(U4-Pad13).
+Add net unconnected-(U4-Pad14).
+Connected U4 pin 14 to unconnected-(U4-Pad14).
+Connected U4 pin 14 to unconnected-(U4-Pad14).
+Add net unconnected-(U4-Pad15).
+Connected U4 pin 15 to unconnected-(U4-Pad15).
+Connected U4 pin 15 to unconnected-(U4-Pad15).
+Add net unconnected-(U4-Pad16).
+Connected U4 pin 16 to unconnected-(U4-Pad16).
+Connected U4 pin 16 to unconnected-(U4-Pad16).
+Add net unconnected-(U4-Pad17).
+Connected U4 pin 17 to unconnected-(U4-Pad17).
+Connected U4 pin 17 to unconnected-(U4-Pad17).
+Add net unconnected-(U4-Pad18).
+Connected U4 pin 18 to unconnected-(U4-Pad18).
+Connected U4 pin 18 to unconnected-(U4-Pad18).
+Add net unconnected-(U4-Pad19).
+Connected U4 pin 19 to unconnected-(U4-Pad19).
+Connected U4 pin 19 to unconnected-(U4-Pad19).
+Add net unconnected-(U4-Pad20).
+Connected U4 pin 20 to unconnected-(U4-Pad20).
+Connected U4 pin 20 to unconnected-(U4-Pad20).
+Add net Net-(U4-Pad21).
+Connected U4 pin 21 to Net-(U4-Pad21).
+Connected U4 pin 21 to Net-(U4-Pad21).
+Add net Net-(U4-Pad22).
+Connected U4 pin 22 to Net-(U4-Pad22).
+Connected U4 pin 22 to Net-(U4-Pad22).
+Add net unconnected-(U4-Pad23).
+Connected U4 pin 23 to unconnected-(U4-Pad23).
+Connected U4 pin 23 to unconnected-(U4-Pad23).
+Add net unconnected-(U4-Pad24).
+Connected U4 pin 24 to unconnected-(U4-Pad24).
+Connected U4 pin 24 to unconnected-(U4-Pad24).
+Add net Net-(U4-Pad25).
+Connected U4 pin 25 to Net-(U4-Pad25).
+Connected U4 pin 25 to Net-(U4-Pad25).
+Add net Net-(U4-Pad26).
+Connected U4 pin 26 to Net-(U4-Pad26).
+Connected U4 pin 26 to Net-(U4-Pad26).
+Add net Net-(U4-Pad27).
+Connected U4 pin 27 to Net-(U4-Pad27).
+Connected U4 pin 27 to Net-(U4-Pad27).
+Add net unconnected-(U4-Pad28).
+Connected U4 pin 28 to unconnected-(U4-Pad28).
+Connected U4 pin 28 to unconnected-(U4-Pad28).
+Add net Net-(U4-Pad29).
+Connected U4 pin 29 to Net-(U4-Pad29).
+Connected U4 pin 29 to Net-(U4-Pad29).
+Add net unconnected-(U4-Pad30).
+Connected U4 pin 30 to unconnected-(U4-Pad30).
+Connected U4 pin 30 to unconnected-(U4-Pad30).
+Add net unconnected-(U4-Pad31).
+Connected U4 pin 31 to unconnected-(U4-Pad31).
+Connected U4 pin 31 to unconnected-(U4-Pad31).
+Add net unconnected-(U4-Pad32).
+Connected U4 pin 32 to unconnected-(U4-Pad32).
+Connected U4 pin 32 to unconnected-(U4-Pad32).
+Add net unconnected-(U4-Pad33).
+Connected U4 pin 33 to unconnected-(U4-Pad33).
+Connected U4 pin 33 to unconnected-(U4-Pad33).
+Add net unconnected-(U4-Pad34).
+Connected U4 pin 34 to unconnected-(U4-Pad34).
+Connected U4 pin 34 to unconnected-(U4-Pad34).
+Add net unconnected-(U4-Pad35).
+Connected U4 pin 35 to unconnected-(U4-Pad35).
+Connected U4 pin 35 to unconnected-(U4-Pad35).
+Add net unconnected-(U4-Pad36).
+Connected U4 pin 36 to unconnected-(U4-Pad36).
+Connected U4 pin 36 to unconnected-(U4-Pad36).
+Add net unconnected-(U4-Pad37).
+Connected U4 pin 37 to unconnected-(U4-Pad37).
+Connected U4 pin 37 to unconnected-(U4-Pad37).
+Add net unconnected-(U4-Pad38).
+Connected U4 pin 38 to unconnected-(U4-Pad38).
+Connected U4 pin 38 to unconnected-(U4-Pad38).
+Add net unconnected-(U4-Pad39).
+Connected U4 pin 39 to unconnected-(U4-Pad39).
+Connected U4 pin 39 to unconnected-(U4-Pad39).
+Add net unconnected-(U4-Pad40).
+Connected U4 pin 40 to unconnected-(U4-Pad40).
+Connected U4 pin 40 to unconnected-(U4-Pad40).
+Add net unconnected-(U4-Pad41).
+Connected U4 pin 41 to unconnected-(U4-Pad41).
+Connected U4 pin 41 to unconnected-(U4-Pad41).
+Add net unconnected-(U4-Pad42).
+Connected U4 pin 42 to unconnected-(U4-Pad42).
+Connected U4 pin 42 to unconnected-(U4-Pad42).
+Add net unconnected-(U4-Pad43).
+Connected U4 pin 43 to unconnected-(U4-Pad43).
+Connected U4 pin 43 to unconnected-(U4-Pad43).
+Added J1 (footprint 'Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal').
+Added U5 (footprint 'ROB-14450:MODULE_ROB-14450').
+Changed REF** reference designator to U5.
+Changed U5 value from MODULE_ROB-14450 to ROB-14450.
+Updated U5 symbol association from  to /1bcfb8d8-52d4-4592-b1a3-ed48a36bfc7c.
+Updated U5 properties.
+Connected U5 pin 8 to Net-(J1-Pad2).
+Connected U5 pin 7 to Net-(J3-Pad2).
+Connected U5 pin 6 to Net-(J3-Pad1).
+Connected U5 pin 5 to Net-(J2-Pad1).
+Connected U5 pin 4 to Net-(J2-Pad2).
+Connected U5 pin 3 to Net-(J1-Pad2).
+Connected U5 pin 2 to Net-(J1-Pad1).
+Add net unconnected-(U5-Pad1).
+Connected U5 pin 1 to unconnected-(U5-Pad1).
+Connected U5 pin 16 to Net-(U4-Pad29).
+Connected U5 pin 15 to Net-(U4-Pad25).
+Connected U5 pin 14 to Net-(U4-Pad26).
+Add net unconnected-(U5-Pad13).
+Connected U5 pin 13 to unconnected-(U5-Pad13).
+Connected U5 pin 12 to Net-(U4-Pad22).
+Connected U5 pin 11 to Net-(U4-Pad21).
+Connected U5 pin 10 to Net-(U4-Pad27).
+Connected U5 pin 9 to Net-(J1-Pad2).
+
+
+Info: Total warnings: 0, errors: 0.

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "PICO")(type "Legacy")(uri "C:/Users/Administrator/Downloads/PICO/PICO.lib")(options "")(descr ""))
+  (lib (name "HC-SR04")(type "Legacy")(uri "C:/Users/Administrator/Downloads/HC-SR04.lib")(options "")(descr ""))
+  (lib (name "ROB-14450")(type "Legacy")(uri "C:/Users/Administrator/Downloads/ROB-14450.lib")(options "")(descr ""))
+  (lib (name "Connector")(type "Legacy")(uri "C:/Users/Administrator/Downloads/connector/Connector.lib")(options "")(descr ""))
+)
